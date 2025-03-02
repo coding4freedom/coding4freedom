@@ -1,10 +1,10 @@
-Hi 👋 My name is chris hawkins
+Hi 👋 My name is Chris Hawkins
 ==============================
 
-Software Engineer
+Software Developer
 -----------------
 
-Passionate software engineer focused on building efficient, scalable, and user-friendly applications. I enjoy tackling complex challenges, optimizing performance, and creating seamless digital experiences. Whether it’s front-end, back-end, or full-stack development, I strive to write clean, maintainable code that makes an impact.
+Passionate software engineer focused on building efficient, scalable, and user-friendly applications. I enjoy the process of working challenging ideals, optimizing performance, and creating seamless digital experiences. Whether it’s front-end, back-end, or full-stack development, I strive to write clean, maintainable code that makes an impact.
 
 *   🌍  I'm based in Dallas Texas
 *   ✉️  You can contact me at [chris.hawkins.cyber@gmail.com](mailto:chris.hawkins.cyber@gmail.com)
